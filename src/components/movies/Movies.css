@@ -1,0 +1,26 @@
+.header h1{
+    width: 900px;
+    margin-left: 250px;
+    background-color: rgb(138, 11, 202);
+    color: white;
+}
+.header{
+    padding: 5px;
+}
+.movie{
+    width: 600px;
+    /* height: 500px; */
+    margin: 0 auto;
+    padding: 5px;
+}
+.mainContent{
+    display: flex;
+    box-shadow: 0 0px 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.mainContent img{
+    width: 150px;
+    height: 100px;
+    padding: 5px;
+}
